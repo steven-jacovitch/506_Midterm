@@ -8,3 +8,5 @@ This exam is a collection of functions that work with the data from the 2023 Wom
 * Using proper python syntax
 * Using try/except blocks
 * Creating (writing to) CSV files
+
+File worked on: midterm.py
